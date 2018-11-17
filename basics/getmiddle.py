@@ -16,7 +16,6 @@ def get_middle(stringToGetMiddle):
     else:
         print stringList[(listCount/2) - 1] + stringList[listCount/2]
 
-
 get_middle(stringToGetMiddle)
 
 
