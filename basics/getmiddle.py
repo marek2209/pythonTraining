@@ -8,6 +8,7 @@
 stringToGetMiddle = "test"
 
 def get_middle(stringToGetMiddle):
+
     stringList = list(stringToGetMiddle)
     listCount = stringList.__len__()
 
